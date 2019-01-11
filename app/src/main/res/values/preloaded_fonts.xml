@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/arizonia</item>
+        <item>@font/audiowide</item>
+        <item>@font/changa_one</item>
+        <item>@font/faster_one</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/new_rocker</item>
+        <item>@font/press_start_2p</item>
+    </array>
+</resources>

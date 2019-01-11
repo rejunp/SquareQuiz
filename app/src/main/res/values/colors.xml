@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btnColor1">#d466ff</color>
+    <color name="btnColor2">#962222</color>
+    <color name="btnColor3">#fe8529</color>
+    <color name="btnColor4">#ff1e56</color>
+    <color name="btnColor5">#2c8f63</color>
+    <color name="btnColor6">#3fcbbd</color>
+    <color name="btnColor7">#9b5e34</color>
+    <color name="btnColor8">#7b388f</color>
+    <color name="btnColor9">#693f56</color>
+    <color name="rank">#999999</color>
+    <color name="name">#222222</color>
+    <color name="qActive">#81ff3d</color>
+    <color name="qDown">#ff1717</color>
+</resources>
